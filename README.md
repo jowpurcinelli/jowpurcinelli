@@ -1,4 +1,4 @@
-### Hi there, I'm João Pedro Purcinelli
+### Hey there, you can call me Pedro! 
 
 ## I'm a Software Developer from Brazil, living in Uruguay
 - 💻 I'm currently working on my personal projects
