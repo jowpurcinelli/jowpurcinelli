@@ -1,8 +1,9 @@
 ### Hey there, you can call me Pedro! 
 
-## I'm a Software Developer from Brazil, living in Uruguay
+## I'm a Software Developer from Brazil, living and studying in Uruguay
+- 🎓 Studying Computer Engineering in the `Universidad de La Republica` - Montevideo,Uruguay (1st Year)
 - 💻 I'm currently working on my personal projects
-- 🎓 Studying Computer Engineering in UDELAR, Uruguay
+
 - 📓 Focusing in Full-Stack development
 - 💪🏼 Exercising my skills in clean code and design patterns
 
