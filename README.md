@@ -19,7 +19,7 @@ const Developer = {
  <br />           
        
 ### Get in touch:
-[<img align="left" alt="pedropurcinelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+<img align="left" alt="pedropurcinelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 #### Frequently using
 
