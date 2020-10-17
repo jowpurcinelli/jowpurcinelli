@@ -1,18 +1,25 @@
 ### Hey there, you can call me Pedro! 
-
-## I'm a Software Developer from Brazil, living and studying in Uruguay
-- 🎓 Studying Computer Engineering in the `Universidad de La Republica` - Montevideo,Uruguay (1st Year)
-- 💻 I'm currently working on my personal projects
-
-- 📓 Focusing in Full-Stack development
-- 💪🏼 Exercising my skills in clean code and design patterns
-
-### Connect with me:
+I'm a Software Developer from Brazil, living and studying in Uruguay
+```javascript
+const Developer = {
+  name: 'João Pedro Purcinelli',
+  age: 21,
+  stack: [ 'Reactjs, Node.js, React Native'],
+  skills: ['HTML5, CSS, JavaScript, TypeScript, SQL'],
+  status: "🎓 Studying Computer Engineering in the `Universidad de La Republica` - Montevideo,Uruguay (1st Year)
+           📓 Focusing in Full-Stack development
+           💪🏼 Exercising my skills in clean code and design patterns
+           💻 I'm currently working on my personal projects",
+  hobbies: 'Learning to code, games 🎮 and rollers.🛹'
+  }
+  
+  console.log(Developer);
+ ```
+      
+ <br />           
+       
+### Get in touch:
 [<img align="left" alt="pedropurcinelli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
 
 #### Frequently using
 
@@ -26,22 +33,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 
 <br />
-
-#### Have coded in or studied
-
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][linkedin]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
-
 <br />
-
----
-
-<img align="left" alt="jowpurcinelli's Github stats" src="https://github-readme-stats.vercel.app/api?username=jowpurcinelli&show_icons=true&hide_border=true&count_private=true&theme=dracula" /> 
-
-<br />
-<br />
-
-[linkedin]: https://www.linkedin.com/in/joao-pedro-purcinelli/
+     
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jowpurcinelli&show_icons=true&theme=dark)
+  
