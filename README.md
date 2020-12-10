@@ -5,7 +5,7 @@ const Developer = {
   name: 'João Pedro Purcinelli',
   age: 21,
   stack: [ 'Reactjs, Node.js, React Native'],
-  skills: ['HTML5, CSS, JavaScript, TypeScript, SQL'], 
+  skills: ['HTML5, CSS, JavaScript, TypeScript, MySQL, SQLite, postgreSQL, etc... '], 
   status: 📓 'Working with App Development, Focusing on Full-Stack development',
   studies:🎓 'Computer Engineering in the `Universidad de La Republica` - Montevideo,Uruguay (1st Year)', 'RocketSeat goStack Bootcamp', 'FreeCodeCamp',
   hobbies: 'Code, games 🎮, music and rollers.🛹'
