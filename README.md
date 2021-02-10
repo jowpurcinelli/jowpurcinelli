@@ -1,6 +1,6 @@
 ### Hey there, you can call me Pedro! 
 I'm a Software Developer from Brazil, living and studying in Uruguay.
-Right now I am working for a United States costumer from the Squalus Company, based in Uruguay
+Working at Squalus Company, based in Uruguay, Costumer from United States
 ```javascript
 const Developer = {
   name: 'João Pedro Purcinelli',
