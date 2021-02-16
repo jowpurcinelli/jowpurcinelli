@@ -1,6 +1,7 @@
 ### Hey there, you can call me Pedro! 
-I'm a Software Developer from Brazil, living and studying in Uruguay.
-Working at Squalus Company, based in Uruguay, Costumer from United States
+I'm a Software Developer from Brazil, living in Uruguay.
+Working at Squalus Company, based in Uruguay. 
+Fullstack Developer on ClassWallet platform. <img align="left" alt="ClassWallet" width="202px" src="https://ww1.prweb.com/prfiles/2018/10/18/15851826/gI_75712_cw-blue-300dpi-2000x320%20vert.png" />
 ```javascript
 const Developer = {
   name: 'João Pedro Purcinelli',
