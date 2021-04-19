@@ -7,7 +7,7 @@ Developer on ClassWallet platform.
 const Developer = {
   name: 'João Pedro Purcinelli',
   age: 21,
-  currentStack: [ 'NodeJS, Reactjs, Angularjs, Vuejs, MongoDB],
+  currentStack: [ 'NodeJS, Reactjs, Angularjs, Vuejs, MongoDB'],
   otherSkills: ['HTML5, CSS, JavaScript, TypeScript, MySQL, SQLite, postgreSQL, Python, Kotlin, etc... '], 
   status: 📓 'Working with Software Development on a financial technology company, Full-Stack Position ',
   studies:🎓 ['Computer Engineering in the `Universidad de La Republica` - Montevideo, Uruguay', 'RocketSeat goStack Bootcamp', 'FreeCodeCamp', 'Free Content'],
