@@ -8,7 +8,7 @@ const Developer = {
   name: 'João Pedro Purcinelli',
   age: 22,
   currentStack: [ 'NodeJS, Reactjs, Angularjs, Vuejs, MongoDB'],
-  otherSkills: ['HTML5, CSS, JavaScript, TypeScript, MySQL, SQLite, postgreSQL, Python'], 
+  otherSkills: ['HTML5, CSS, TypeScript, Docker, Documentation, Confluence and Jira professional knowledge, MySQL, SQLite, postgreSQL, Python'], 
   status: 📓 'Working with Software Development on a financial technology company, Full-Stack Position ',
   studies:🎓 ['Computer Engineering in the `Universidad de La Republica` - Montevideo, Uruguay', 'RocketSeat goStack Bootcamp', 'FreeCodeCamp', 'Free Content'],
   hobbies: 'Code, games 🎮, music, rollers🛹, fresh air time and Mate'
