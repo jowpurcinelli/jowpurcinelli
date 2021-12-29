@@ -1,7 +1,6 @@
 ### Hey there, you can call me Pedro! 
 I'm a Software Developer from Brazil, living in Uruguay.
-Working at SQFactory Company.</br>
-Developer on ClassWallet platform. 
+Developer on ClassWallet platform. </br>
 <img align="center" alt="ClassWallet" width="122px" src="https://ww1.prweb.com/prfiles/2018/10/18/15851826/gI_75712_cw-blue-300dpi-2000x320%20vert.png" />
 ```javascript
 const Developer = {
