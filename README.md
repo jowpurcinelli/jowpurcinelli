@@ -10,9 +10,9 @@ const Developer = {
   otherSkills: ['HTML5, CSS, SASS,  Angularjs, Vuejs, TypeScript, Docker, Documentation, Confluence and Jira professional knowledge, MySQL, SQLite, postgreSQL, Python'], 
   status: 📓 'Working as a PO and Support Engineer on a financial technology company',
   studies:🎓 ['Computer Engineering in the `Universidad de La Republica` - Montevideo, Uruguay', 'RocketSeat goStack Bootcamp', 'FreeCodeCamp', 'Free Content'],
-  hobbies: 'Code, games 🎮, music, rollers🛹, fresh air time and Mate'
+  hobbies: 'Travels, Games 🎮, Music, Rollers🛹, fresh air time, Dog and Mate'
   }
-  💪🏼 //Exercising my skills in clean code and design patterns
+  💪🏼 //Exercising my skills in clean code and good code
   sendOffer(Developer);
  ```
       
