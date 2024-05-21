@@ -6,8 +6,8 @@ Developing in the ClassWallet platform. Also working as a Support Engineer. </br
 const Developer = {
   name: 'João Pedro Purcinelli',
   age: 24,
-  currentStack: [ 'Nodejs, Nestjs, Reactjs, Native, Next.js, MongoDB, AWS'],
-  otherSkills: ['HTML5, CSS, SASS,  Angularjs, Vuejs, TypeScript, Docker, Documentation, Confluence and Jira professional knowledge, MySQL, SQLite, postgreSQL, Python'], 
+  currentStack: [ 'Nodejs, Nestjs, Reactjs, MongoDB, MYSQL, AWS, TypeScript'],
+  otherSkills: ['HTML5, CSS, SASS,  Angularjs, Vuejs,  Native, Docker, Documentation, Confluence and Jira professional knowledge, SQLite, postgreSQL, Python'], 
   status: 📓 'Working as a PO and Support Engineer on a financial technology company',
   studies:🎓 ['Computer Engineering in the `Universidad de La Republica` - Montevideo, Uruguay', 'RocketSeat goStack Bootcamp', 'FreeCodeCamp', 'Free Content'],
   hobbies: 'Travels, Games 🎮, Music, Rollers🛹, fresh air time, Dog and Mate'
