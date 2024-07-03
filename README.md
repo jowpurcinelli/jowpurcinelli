@@ -1,19 +1,22 @@
 ### Hey there, you can call me Pedro! 
 I'm a Software Engineer from Brazil.
-Developing in the ClassWallet platform. Also working as a Support Engineer. </br>
+Building and fixing stuff at ClassWallet company. </br>
+Also working as a Support Engineer. </br>
 <img align="center" alt="ClassWallet" width="122px" src="https://ww1.prweb.com/prfiles/2018/10/18/15851826/gI_75712_cw-blue-300dpi-2000x320%20vert.png" />
+
 ```javascript
-const Developer = {
+let skills = {
   name: 'João Pedro Purcinelli',
   age: 24,
   currentStack: [ 'Nodejs, Nestjs, Reactjs, MongoDB, MYSQL, AWS, TypeScript'],
   otherSkills: ['HTML5, CSS, SASS,  Angularjs, Vuejs,  Native, Docker, Documentation, Confluence and Jira professional knowledge, SQLite, postgreSQL, Python'], 
-  status: 📓 'Working as a PO and Support Engineer on a financial technology company',
+  status: 📓 'Working as a Software and Support Engineer on a financial/educational technology company',
   studies:🎓 ['Computer Engineering in the `Universidad de La Republica` - Montevideo, Uruguay', 'RocketSeat goStack Bootcamp', 'FreeCodeCamp', 'Free Content'],
-  hobbies: 'Travels, Games 🎮, Music, Rollers🛹, fresh air time, Dog and Mate'
+  hobbies: 'Travels, Games 🎮, Music, Rollers🛹, fresh air time, and Dogs'
   }
-  💪🏼 //Exercising my skills in clean code and good code
-  sendOffer(Developer);
+  💪🏼 //Exercising my skills with clean and good quality code
+
+skills.currentStack.push('alwaysLearning') 
  ```
       
           
