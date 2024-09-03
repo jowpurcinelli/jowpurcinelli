@@ -7,7 +7,7 @@ Also working as a Support Engineer. </br>
 ```javascript
 let skills = {
   name: 'João Pedro Purcinelli',
-  age: 24,
+  age: 25,
   currentStack: [ 'Nodejs, Nestjs, Reactjs, MongoDB, MYSQL, AWS, TypeScript'],
   otherSkills: ['HTML5, CSS, SASS,  Angularjs, Vuejs,  Native, Docker, Documentation, Confluence and Jira professional knowledge, SQLite, postgreSQL, Python'], 
   status: 📓 'Working as a Software and Support Engineer on a financial/educational technology company',
