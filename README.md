@@ -9,7 +9,7 @@ let skills = {
   name: 'João Pedro Purcinelli',
   age: 25,
   currentStack: [ 'Nodejs, Nestjs, Reactjs, MongoDB, MYSQL, AWS, TypeScript'],
-  otherSkills: ['HTML5, CSS, SASS,  Angularjs, Vuejs,  Native, Docker, Documentation, Confluence and Jira professional knowledge, SQLite, postgreSQL, Python'], 
+  otherSkills: ['GraphQL, TalwindCSS, CSS, SASS, GDP,  Angularjs, Vuejs,  Native, Docker, Documentation, Confluence and Jira professional knowledge, SQLite, postgreSQL, Python'], 
   status: 📓 'Working as a Software and Support Engineer on a financial/educational technology company',
   studies:🎓 ['Computer Engineering in the `Universidad de La Republica` - Montevideo, Uruguay', 'RocketSeat goStack Bootcamp', 'FreeCodeCamp', 'Free Content'],
   hobbies: 'Travels, Games 🎮, Music, Rollers🛹, fresh air time, and Dogs'
