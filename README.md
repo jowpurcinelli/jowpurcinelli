@@ -6,9 +6,9 @@ I'm a **Software Engineer** based in Brazil with a passion for building innovati
 
 ---
 
-🚀 **Exciting News! Founding Nellia - AI & Tech for SMEs**
+🚀 **Founding Nellia - AI & Tech for SMEs**
 
-I'm also thrilled to be embarking on a new venture as a founder of **Nellia ([nellia.com.br](https://nellia.com.br) - launching soon!)**. Our mission at Nellia is to empower Small and Medium-sized Companies (SMEs) in Brazil with cutting-edge Technology and AI solutions. We're focused on:
+I'm also thrilled to be embarking on a new venture as a founder of **[Nellia](https://nellia.com.br)**. Our mission at Nellia is to empower Small and Medium-sized Companies (SMEs) in Brazil with cutting-edge Technology and AI solutions. We're focused on:
 * Developing custom **AI Agents** & integrated **AI Ecosystems**
 * Building tailored **Software Solutions**
 * Optimizing business **Processes** for efficiency and cost reduction
@@ -41,7 +41,7 @@ I enjoy working across the full stack and diving deep into system architecture a
 * ⚙️ **Personalized Automation Projects:** Crafting custom automation to solve unique business challenges.
 * 🗺️ **Process Mapping & Optimization:** Analyzing and improving operational efficiency.
 * 🛡️ **MCP Servers:** (Microsoft Certified Professional - if this is what you meant by MCP, otherwise clarify!) Managing and configuring server environments.
-* 🛍️ Shopify App Development
+* 🛍️ Shopify App Development and Gateway integrations
 * GraphQL, TailwindCSS, SASS/CSS
 
 💡 **Current Focus:**
