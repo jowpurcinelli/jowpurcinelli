@@ -23,9 +23,9 @@ I'm channeling my expertise into making Nellia a trusted partner for businesses 
 I enjoy working across the full stack and diving deep into system architecture and intelligent automation.
 
 **Core Languages & Frameworks:**
-* JavaScript, TypeScript, Python (especially for AI/ML workflows)
+* JavaScript, TypeScript, Java, Python (especially for AI/ML workflows)
 * Node.js, NestJS, CrewAI, A2A
-* React.js, Angular.js
+* React.js, Next.js Angular.js
 
 **Databases & Data Management:**
 * MongoDB, MySQL, PostgreSQL, SQLite
