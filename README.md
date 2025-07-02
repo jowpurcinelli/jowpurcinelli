@@ -6,15 +6,13 @@ I'm a **Software Engineer** based in Brazil with a passion for building innovati
 
 ---
 
-🚀 **Founding Nellia - AI & Tech for SMEs**
+🚀 **AI & Tech for SMEs**
 
-I'm also thrilled to be embarking on a new venture as a founder of **[Nellia](https://nellia.com.br)**. Our mission at Nellia is to empower Small and Medium-sized Companies (SMEs) in Brazil with cutting-edge Technology and AI solutions. We're focused on:
+Currently focused on:
 * Developing custom **AI Agents** & integrated **AI Ecosystems**
 * Building tailored **Software Solutions**
 * Optimizing business **Processes** for efficiency and cost reduction
 * Helping SMEs innovate and grow sustainably.
-
-I'm channeling my expertise into making Nellia a trusted partner for businesses looking to thrive in the digital age.
 
 ---
 
@@ -45,7 +43,7 @@ I enjoy working across the full stack and diving deep into system architecture a
 * GraphQL, TailwindCSS, SASS/CSS
 
 💡 **Current Focus:**
-* Building impactful Software and AI solutions for SMEs at Nellia.
+* Building impactful Software and AI solutions for SMEs.
 * Exploring advanced AI Agent orchestration and large language model (LLM) applications.
 * Continuously refining my skills in clean code, scalable architecture, and robust software development.
 
@@ -74,7 +72,6 @@ When I'm not coding, you can find me:
 I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.
 
 * **LinkedIn:** [João Pedro Purcinelli](https://www.linkedin.com/in/joao-pedro-purcinelli/)
-* **Nellia:** [nellia.com.br](https://nellia.com.br)
 
 💪_Striving for excellence with clean, high-quality code and impactful solutions._
 
