@@ -20,7 +20,7 @@ I'm a **Software Engineer** based in Brazil with a passion for building innovati
 I enjoy working across the full stack and diving deep into system architecture and intelligent automation.
 
 **Core Languages & Frameworks:**
-* JavaScript, TypeScript, Java, Python (especially for AI/ML workflows)
+* JavaScript, TypeScript, Java, SpringBoot, Python (especially for AI/ML workflows)
 * Node.js, NestJS, CrewAI, A2A
 * React.js, Next.js Angular.js
 
