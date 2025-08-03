@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** based in Brazil with a passion for building innovative solutions and optimizing processes. Currently, I'm lending my expertise to **[Guidewire](https://www.guidewire.com/)**, focusing on Functional Consulting.
 
-<img align="center" alt="ClassWallet" width="122px" src="https://ww1.prweb.com/prfiles/2018/10/18/15851826/gI_75712_cw-blue-300dpi-2000x320%20vert.png" />
+<img align="center" alt="Guidewire" width="122px" src="https://edge.sitecorecloud.io/guidewiresodb06-guidewire0f2e-productioncd91-5186/media/project/guidewire/guidewire/header/logo.svg?h=49&iar=0&w=308" />
 
 ---
 
