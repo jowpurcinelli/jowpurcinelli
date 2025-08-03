@@ -8,7 +8,6 @@ I'm a **Software Engineer** based in Brazil with a passion for building innovati
 
 🚀 **AI & Tech for SMEs**
 
-Currently focused on:
 * Developing custom **AI Agents** & integrated **AI Ecosystems**
 * Building tailored **Software Solutions**
 * Optimizing business **Processes** for efficiency and cost reduction
