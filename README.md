@@ -11,7 +11,7 @@ I'm a **Software Engineer** based in Brazil with a passion for building innovati
 * Developing custom **AI Agents** & integrated **AI Ecosystems**
 * Building tailored **Software Solutions**
 * Optimizing business **Processes** for efficiency and cost reduction
-* Helping SMEs innovate and grow sustainably.
+* Helping customers innovate and grow sustainably.
 
 ---
 
@@ -20,7 +20,7 @@ I'm a **Software Engineer** based in Brazil with a passion for building innovati
 I enjoy working across the full stack and diving deep into system architecture and intelligent automation.
 
 **Core Languages & Frameworks:**
-* JavaScript, TypeScript, Java, SpringBoot, Python (especially for AI/ML workflows)
+* Java, SpringBoot, TypeScript, Python (especially for AI/ML workflows)
 * Node.js, NestJS, CrewAI, A2A
 * React.js, Next.js Angular.js
 
@@ -33,25 +33,11 @@ I enjoy working across the full stack and diving deep into system architecture a
 * Git, GitHub
 * Jira, Confluence
 
-**Specialized Interests & Skills:**
-* 🤖 **AI Agent Workflows:** Designing and implementing intelligent agents, with the power of the greatest and newest technologies.
-* ⚙️ **Personalized Automation Projects:** Crafting custom automation to solve unique business challenges.
-* 🗺️ **Process Mapping & Optimization:** Analyzing and improving operational efficiency.
-* 🛡️ **MCP Servers:** (Microsoft Certified Professional - if this is what you meant by MCP, otherwise clarify!) Managing and configuring server environments.
-* 🛍️ Shopify App Development and Gateway integrations
-* GraphQL, TailwindCSS, SASS/CSS
-
-💡 **Current Focus:**
-* Building impactful Software and AI solutions for SMEs.
-* Exploring advanced AI Agent orchestration and large language model (LLM) applications.
-* Continuously refining my skills in clean code, scalable architecture, and robust software development.
-
----
 
 🎓 **Education & Learning Journey**
 
 * Computer Engineering @ `Universidad de La República` - Montevideo, Uruguay
-* Continuous learner via RocketSeat, Courses, FreeCodeCamp, Documentations and always exploring new tech!
+* Continuous learner via Online Courses, FreeCodeCamp, Documentations and always exploring new tech!
 
 ---
 
